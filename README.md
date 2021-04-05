@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 
 I have two project practice more about responsive website, convert PSD to HTML.
-Language: HTML, CSS, JavaScript
+
+Language: HTML, CSS, JavaScript.
+
 Framework: JQuery.
+
 CSS Preprocessors: SASS/SCSS.
 
 ### landing-page
