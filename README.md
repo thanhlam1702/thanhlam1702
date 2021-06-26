@@ -5,7 +5,7 @@
 ### I have two project practice more about responsive website, convert PSD to HTML.
 
 <p>Language: HTML, CSS, JavaScript.</p>
-<p>Framework: JQuery.</p>
+<p>Library: JQuery.</p>
 <p>CSS Preprocessors: SASS/SCSS.</p>
 
 ### landing-page
