@@ -1,4 +1,4 @@
-<h1 align="center" color="#5180FF">My name Thanh Lam</h1>
+<h1 align="center" color="#5180FF">My name Thanh Lãm</h1>
 <h2> Hi there 👋, I really happy😄😁 when you watch my github✨ </h2>
 
 
